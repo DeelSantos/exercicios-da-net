@@ -1,0 +1,47 @@
+@charset "UTF-8";
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background-color: lightgray;
+}
+
+
+header {
+    background-color: aqua;
+    height: 150px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+nav {
+    background-color: brown;
+    width: 150px;
+    height: 400px;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+}
+
+main {
+    background-color: coral;
+    height: 400px;
+    width: 1000px;
+    margin-top: 10px;
+    margin-left: 170px;
+    
+}
+
+
+main h2 {
+    text-align: center;
+    padding: 10px;
+}
+
+main p {
+    padding-left: 10px ;
+    padding-right: 10px;
+    text-align: justify;
+}
